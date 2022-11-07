@@ -1,0 +1,16 @@
+{
+  "name": "hometask-project-set-up",
+  "version": "1.0.0",
+  "description": "This is my first project",
+  "main": "index.js",
+  "author": "Paweł Włoszczewski",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^29.3.0",
+    "@babel/preset-env": "^7.13.5"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "type": "module"
+}
