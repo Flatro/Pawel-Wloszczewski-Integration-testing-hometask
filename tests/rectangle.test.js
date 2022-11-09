@@ -17,7 +17,7 @@ test('should properly return rectangle perimeter', () => {
 
 test('should properly return rectangle info', () => {
     const output = getRectangleInfo(2, 4);
-    expect(output).toBe(console.log(`The perimeter of a rectangle is 16 and the area is 8`));
+    expect(output).toBe(console.log());
 });
 
 test('should properly return rectangle info', () => {
