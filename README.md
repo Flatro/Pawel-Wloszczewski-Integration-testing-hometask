@@ -3,4 +3,4 @@
 2. Run <strong>yarn install</strong> command in terminal<br>
 3. Run <strong>yarn test</strong> command in terminal<br><br>
 
-** <h3>It is required that you have the yarn and node.js installed on your workstation</h3> **
+<h3>It is required that you have the yarn and node.js installed on your workstation</h3>
